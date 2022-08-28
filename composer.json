@@ -1,5 +1,5 @@
 {
-  "name": "gitzaai/flarum-ext-hljs",
+  "name": "gitzaai/flarum-ext-hljs2",
   "description": "Integrate your forum with highlight.js.",
   "keywords": [
     "highlight.js",
@@ -28,7 +28,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Therealsujitk\\Hljs\\": "src/"
+      "gitzaai\\Hljs\\": "src/"
     }
   },
   "extra": {
