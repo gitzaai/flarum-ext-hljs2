@@ -4,6 +4,8 @@
 
 A [Flarum](http://flarum.org) extension that integrates your forum with [highlight.js](https://highlightjs.org).
 
+### Fork from [flarum-ext-hljs](https://github.com/therealsujitk/flarum-ext-hljs) for compatibility with Flarum 1.4
+
 ### Preview
 
 ![Preview](https://i.imgur.com/GqV7PT9.png)
@@ -15,13 +17,13 @@ A [Flarum](http://flarum.org) extension that integrates your forum with [highlig
 ### Installation
 
 ```sh
-composer require therealsujitk/flarum-ext-hljs
+composer require gitzaai/flarum-ext-hljs2
 ```
 
 ### Updating
 
 ```sh
-composer update therealsujitk/flarum-ext-hljs
+composer update gitzaai/flarum-ext-hljs2
 ```
 
 ### Links
