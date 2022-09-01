@@ -28,6 +28,6 @@ composer update gitzaai/flarum-ext-hljs2
 
 ### Links
 
-- [Packagist](https://packagist.org/packages/therealsujitk/flarum-ext-hljs)
+- [Packagist](https://packagist.org/packages/gitzaai/flarum-ext-hljs2)
 - [Discussion Page](https://discuss.flarum.org/d/23229)
 - [GitHub](https://github.com/therealsujitk/flarum-ext-hljs)
